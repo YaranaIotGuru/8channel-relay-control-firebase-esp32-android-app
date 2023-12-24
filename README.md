@@ -48,4 +48,4 @@ Follow these steps to set up and run the Home Automation project.
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/Home-Automation-ESP32-Firebase.git
+git clone https://github.com/YaranaIotGuru/8channel-relay-control-firebase-esp32-android-app.git
